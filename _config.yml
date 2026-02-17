@@ -1,63 +1,22 @@
-# Site settings
-title: "Mr. Claus"
-description: "Tutto qui."
+# Setup
+title:               Lanyon
+tagline:             'A Jekyll theme'
+description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:                 http://lanyon.getpoole.com
+baseurl:             ''
+paginate:            5
+permalink:           pretty
 
-# Build settings
-markdown: kramdown
-sass:
-  sass_dir: _sass
-  style: compressed
+# About/contact
+author:
+  name:              Mark Otto
+  url:               https://twitter.com/mdo
+  email:             markdotto@gmail.com
 
-# Resume settings
-resume_avatar:                  "true"
-resume_name:                    "Mr. Claus"
-resume_title:                   "Ex giornalista e podcaster in pensione."
+# Gems
+plugins:
+  - jekyll-paginate
 
-# used for the contact button in _layouts/resume.html
-resume_contact_email:           "hello@mrclaus.xyz"
-
-# the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-2368"
-resume_contact_address:         "Turin, Italy"
-
-resume_header_contact_info:     "Turin, Italy • 555-2368 • hello@mrclaus.xyz"
-display_header_contact_info:    "false"
-
-resume_header_intro: "<p></p>"
-
-# use "yes" to display the email contact button,
-# "no" to display an "I'm not looking for work" message,
-# or remove the resume_looking_for_work option entirely
-# to leave blank
-resume_looking_for_work:        "yes"
-
-# Decide which sections to use
-# comment out to hide
-resume_section_experience:      true
-# resume_section_education:       true
-resume_section_projects:        true
-# resume_section_skills:          true
-# resume_section_recognition:     true
-resume_section_links:           true
-# esume_section_associations:    true
-# resume_section_interests:       true
-
-# Resume social links
-# uncomment the options you wish to display, and add your own URL
-resume_social_links:
-  # resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/mrclaus_xyz"
-  # resume_dribbble_url:          "https://dribbble.com/jag"
-  # resume_facebook_url:          "insert Facebook URL here"
-  # resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
-  resume_instagram_url:         "https://www.instagram.com/mrclaus_xyz"
-  # resume_website_url:           "https://nomar.in"
-  # resume_medium_url:            "https://medium.com/@jglovier"
-resume_print_social_links:      true
-
-# Design settings
-resume_theme:                   default
-
-# Note: when editing locally, remember to restart
-# your Jekyll server when you edit this file. Changes
-# to _config.yml are only recognized when the server starts
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
