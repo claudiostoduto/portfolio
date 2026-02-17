@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2025-11-01
+img: youtube-chronodaddy.jpeg
+alt: image-alt
+project-date: Novembre 2025
+client: YouTube
+category: Social Media
+description: Ho creato il canale YouTube Chronodaddy in cui parlo di orologi in Rete.
+---
