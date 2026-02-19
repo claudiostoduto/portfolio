@@ -7,12 +7,12 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Tutto quello che faccio in Rete accentrato per accrescere il mio ego."
 ---
 
-## 🌐 In Rete — Mr. Claus
+####  🌐 In Rete — Mr. Claus
 
 Benvenuto in questo angolo del mio sito personale.
 Se sei arrivato qui, probabilmente ti stai chiedendo cosa faccio online oggi, ma non è detto.
 
-## 📰 Cosa facevo prima
+####  📰 Cosa facevo prima
 
 Per molti anni sono stato **giornalista**.
 Ho raccontato storie, seguito l’evoluzione del mondo digitale e provato a spiegare la tecnologia con parole semplici.
@@ -24,7 +24,7 @@ Oggi posso dire serenamente di essere **un ex podcaster in pensione**.
 Niente più scalette, editing notturni o ansia da pubblicazione.
 Adesso la Rete è tornata a essere soprattutto un luogo da vivere con curiosità, senza rincorrere algoritmi.
 
-## 💬 Dove trovarmi
+####  💬 Dove trovarmi
 
 Continuo a bazzicare online, ma con molta più calma.
 
@@ -37,7 +37,7 @@ Nessuna strategia editoriale. Solo presenza umana.
 
 ---
 
-## ⌚ Il progetto Chronodaddy
+####  ⌚ Il progetto Chronodaddy
 
 Se c’è una cosa che non è mai andata in pensione è la mia passione per gli **orologi**.
 
@@ -47,13 +47,13 @@ Da questa passione è nato **Chronodaddy**:
 Chronodaddy è un progetto indipendente, personale e volutamente lontano dai toni “da catalogo”.
 Parla di orologi vissuti, scelti, portati. Non solo mostrati.
 
-### 🎥 Ultimi video
+####  🎥 Ultimi video
 
 <iframe width="100%" height="auto" src="https://www.youtube.com/embed?listType=playlist&list=PLCEJjLJTKoFAgc0yKijURyRzcTfSLQY2R" title="Chronodaddy - Ultimi video" frameborder="0" allowfullscreen></iframe>
 
 *(La playlist raccoglie automaticamente gli ultimi contenuti pubblicati.)*
 
-### 🔗 Segui Chronodaddy
+#### 🔗 Segui Chronodaddy
 
 * **Instagram:** [Seguimi su Instagram](https://instagram.com/chronodaddy)
 * **YouTube:** [Iscriviti al canale YouTube](https://youtube.com/@chronodaddy)
@@ -61,7 +61,7 @@ Parla di orologi vissuti, scelti, portati. Non solo mostrati.
 
 ---
 
-## 🧭 Oggi
+####  🧭 Oggi
 
 Oggi uso Internet come lo usavamo una volta:
 per passione, per curiosità, per condividere qualcosa quando vale davvero la pena farlo.
