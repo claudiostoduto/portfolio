@@ -7,7 +7,8 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Tutto quello che faccio in Rete accentrato per accrescere il mio ego."
 ---
 
-# 🌐 In Rete — Mr. Claus
+
+## 🌐 In Rete — Mr. Claus
 
 Benvenuto in questo angolo del mio sito personale.
 Se sei arrivato qui, probabilmente ti stai chiedendo cosa faccio online oggi, ma non è detto.
@@ -49,7 +50,7 @@ Parla di orologi vissuti, scelti, portati. Non solo mostrati.
 
 ### 🎥 Ultimi video
 
-<iframe width="100%" height="auto" src="https://www.youtube.com/embed?listType=playlist&list=PLCEJjLJTKoFAgc0yKijURyRzcTfSLQY2R" title="Chronodaddy - Ultimi video" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="40%" src="https://www.youtube.com/embed?listType=playlist&list=PLCEJjLJTKoFAgc0yKijURyRzcTfSLQY2R" title="Chronodaddy - Ultimi video" frameborder="0" allowfullscreen></iframe>
 
 *(La playlist raccoglie automaticamente gli ultimi contenuti pubblicati.)*
 
