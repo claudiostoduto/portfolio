@@ -7,7 +7,6 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Tutto quello che faccio in Rete accentrato per accrescere il mio ego."
 ---
 
-
 ## 🌐 In Rete — Mr. Claus
 
 Benvenuto in questo angolo del mio sito personale.
