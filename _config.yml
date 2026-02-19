@@ -91,7 +91,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: it-IT # Set the site language
 title: "Mr. Claus" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/logo.jpg" # Site logo, also used in jekyll-seo-tag
+logo: "assets/logos/logo.jpg" # Site logo, also used in jekyll-seo-tag
 description: "Tutto ciò che faccio in Rete" # Site description and default description, also used in jekyll-seo-tag
 url: "" # Site url, also used in jekyll-seo-tag
 baseurl: ""

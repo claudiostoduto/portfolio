@@ -1,5 +1,5 @@
 ---
-title: Home
+title: 
 feature_text: |
   ## Mr. Claus
   Quello che faccio in rete.
@@ -49,7 +49,7 @@ Parla di orologi vissuti, scelti, portati. Non solo mostrati.
 
 ### 🎥 Ultimi video
 
-<iframe width="auto" height="auto" src="https://www.youtube.com/embed?listType=playlist&list=PLCEJjLJTKoFAgc0yKijURyRzcTfSLQY2R" title="Chronodaddy - Ultimi video" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed?listType=playlist&list=PLCEJjLJTKoFAgc0yKijURyRzcTfSLQY2R" title="Chronodaddy - Ultimi video" frameborder="0" allowfullscreen></iframe>
 
 *(La playlist raccoglie automaticamente gli ultimi contenuti pubblicati.)*
 
