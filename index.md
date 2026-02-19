@@ -7,10 +7,6 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Tutto quello che faccio in Rete accentrato per accrescere il mio ego."
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
-
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
-
 # 🌐 In Rete — Mr. Claus
 
 Benvenuto in questo angolo del mio sito personale.
@@ -32,9 +28,9 @@ Adesso la Rete è tornata a essere soprattutto un luogo da vivere con curiosità
 
 Continuo a bazzicare online, ma con molta più calma.
 
-* Twitter (o X, se preferite chiamarlo così): https://twitter.com/mrclaus_xyz
-* Instagram: https://instagram.com/mrclaus_xyz
-* Telegram: https://t.me/mrclaus_xyz
+* **Twitter (o X, se preferite chiamarlo così):** [Seguimi su Twitter](https://twitter.com/mrclaus_xyz)
+* **Instagram:** [Seguimi su Instagram](https://instagram.com/mrclaus_xyz)
+* **Telegram:** [Unisciti al canale Telegram](https://t.me/mrclaus_xyz)
 
 Lì condivido pensieri sparsi, qualche scoperta interessante e ciò che mi diverte in quel momento.
 Nessuna strategia editoriale. Solo presenza umana.
@@ -53,15 +49,22 @@ Parla di orologi vissuti, scelti, portati. Non solo mostrati.
 
 ### 🎥 Ultimi video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed?listType=playlist&list=PLCEJjLJTKoFAgc0yKijURyRzcTfSLQY2R" title="Chronodaddy - Ultimi video" frameborder="0" allowfullscreen></iframe>
+<div class="video-wrapper">
+  <iframe
+    src="https://www.youtube.com/embed?listType=playlist&list=PLCEJjLJTKoFAgc0yKijURyRzcTfSLQY2R"
+    title="Chronodaddy - Ultimi video"
+    frameborder="0"
+    allowfullscreen>
+  </iframe>
+</div>
 
 *(La playlist raccoglie automaticamente gli ultimi contenuti pubblicati.)*
 
 ### 🔗 Segui Chronodaddy
 
-* Instagram: https://instagram.com/chronodaddy
-* YouTube: https://youtube.com/@chronodaddy
-* Telegram: https://t.me/chronodaddy
+* **Instagram:** [Seguimi su Instagram](https://instagram.com/chronodaddy)
+* **YouTube:** [Iscriviti al canale YouTube](https://youtube.com/@chronodaddy)
+* **Telegram:** [Unisciti al canale Telegram](https://t.me/chronodaddy)
 
 ---
 
