@@ -31,6 +31,7 @@ Continuo a bazzicare online, ma con molta più calma.
 * **Twitter (o X, se preferite chiamarlo così):** [Seguimi su Twitter](https://twitter.com/mrclaus_xyz)
 * **Instagram:** [Seguimi su Instagram](https://instagram.com/mrclaus_xyz)
 * **Telegram:** [Unisciti al canale Telegram](https://t.me/mrclaus_xyz)
+* **Blog:** [Leggi il mio blog](https://nomar.in)
 
 Lì condivido pensieri sparsi, qualche scoperta interessante e ciò che mi diverte in quel momento.
 Nessuna strategia editoriale. Solo presenza umana.
