@@ -49,14 +49,7 @@ Parla di orologi vissuti, scelti, portati. Non solo mostrati.
 
 ### 🎥 Ultimi video
 
-<div class="video-wrapper">
-  <iframe
-    src="https://www.youtube.com/embed?listType=playlist&list=PLCEJjLJTKoFAgc0yKijURyRzcTfSLQY2R"
-    title="Chronodaddy - Ultimi video"
-    frameborder="0"
-    allowfullscreen>
-  </iframe>
-</div>
+<iframe width="auto" height="auto" src="https://www.youtube.com/embed?listType=playlist&list=PLCEJjLJTKoFAgc0yKijURyRzcTfSLQY2R" title="Chronodaddy - Ultimi video" frameborder="0" allowfullscreen></iframe>
 
 *(La playlist raccoglie automaticamente gli ultimi contenuti pubblicati.)*
 
